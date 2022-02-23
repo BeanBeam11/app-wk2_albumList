@@ -1,0 +1,89 @@
+[{
+      "title": "Taylor Swift",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg",
+      "thumbnail_image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-07-at-1-47-22-pm-1578422860.png",
+      "released": "2006-10-24"
+   },
+   {
+      "title": "Fearless",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/Fearless-Enhanced-Taylor-Swift/dp/B001EYGOEM",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51qmhXWZBxL.jpg",
+      "thumbnail_image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-07-at-1-47-22-pm-1578422860.png",
+      "released": "2008-11-11"
+   },
+   {
+      "title": "Speak Now",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/Speak-Now-Taylor-Swift/dp/B003WTE886",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51vlGuX7%2BFL.jpg",
+      "thumbnail_image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-07-at-1-47-22-pm-1578422860.png",
+      "released": "2010-10-25"
+   },
+   {
+      "title": "Red",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/Red-Taylor-Swift/dp/B008XNZMOU",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41j7-7yboXL.jpg",
+      "thumbnail_image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-07-at-1-47-22-pm-1578422860.png",
+      "released": "2012-10-22"
+   },
+   {
+      "title": "1989",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/1989-Taylor-Swift/dp/B00MRHANNI",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/717DWgRftmL._SX522_.jpg",
+      "thumbnail_image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-07-at-1-47-22-pm-1578422860.png",
+      "released": "2014-10-27"
+   },
+   {
+      "title": "reputation",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/reputation-Taylor-Swift/dp/B0754BBDF1",
+      "image": "https://m.media-amazon.com/images/I/81Ii6u2neLL._SX522_.jpg",
+      "thumbnail_image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-07-at-1-47-22-pm-1578422860.png",
+      "released": "2017-11-10"
+   },
+   {
+      "title": "Lover",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/Lover-Taylor-Swift/dp/B07SRF26YQ",
+      "image": "https://m.media-amazon.com/images/I/71RfNE3rIyL._SX522_.jpg",
+      "thumbnail_image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-07-at-1-47-22-pm-1578422860.png",
+      "released": "2019-08-23"
+   },
+   {
+      "title": "folklore",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/folklore-Deluxe-CD-Taylor-Swift/dp/B098DL8PK6",
+      "image": "https://m.media-amazon.com/images/I/91PYDrG2ejL._SX522_.jpg",
+      "thumbnail_image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-07-at-1-47-22-pm-1578422860.png",
+      "released": "2020-07-24"
+   },
+   {
+      "title": "evermore",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/evermore-CD-Taylor-Swift/dp/B093TNLZT1",
+      "image": "https://m.media-amazon.com/images/I/711x7hStsJS._SX522_.jpg",
+      "thumbnail_image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-07-at-1-47-22-pm-1578422860.png",
+      "released": "2020-12-11"
+   },
+   {
+      "title": "Fearless(Taylor's Version)",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/Fearless-Taylors-Version-2-CD/dp/B08WJQ4P8B",
+      "image": "https://m.media-amazon.com/images/I/71sTuVRDUuL._SX522_.jpg",
+      "thumbnail_image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-07-at-1-47-22-pm-1578422860.png",
+      "released": "2021-04-09"
+   },
+   {
+      "title": "Red(Taylor's Version)",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/Red-Taylors-Version-2-CD/dp/B09BY285F9",
+      "image": "https://m.media-amazon.com/images/I/71zXQIRcbbL._SX522_.jpg",
+      "thumbnail_image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-07-at-1-47-22-pm-1578422860.png",
+      "released": "2021-11-12"
+   }
+]
