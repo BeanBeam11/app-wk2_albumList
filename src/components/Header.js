@@ -21,6 +21,7 @@ const styles = StyleSheet.create({
         shadowOffset: {width: 0, height: 4},
         shadowOpacity: 0.1,
         shadowRadius: 5,
+        elevation: 10, //Android only
     },
     headerText: {
         fontSize: 18,
